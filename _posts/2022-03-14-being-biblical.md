@@ -7,15 +7,10 @@ But today I was thinking about an interaction Jesus had with the Pharisees and e
 Here's the story from Luke 14:1-6 in my words, which are similar to the ESV and NLT:
 
 > One day, Jesus went to the home of a leader of the Pharisees on the Sabbath, to eat a meal. And they were keeping a close watch on him.
-
 > And, wouldn't you know it, there in front of Jesus was a man who had a disease called dropsy that makes your body swell up. 
-
 > Jesus responded to the experts in the law and to the Pharisees, saying, "Is it permissible to heal on the Sabbath, or is it not?" But they would not say anything.
-
 > So, Jesus took hold of the man, healed him, and let him go.
-
 > And he said to them, "Who of you, if his son or his ox falls into a well, will not rush to pull him out, on the Sabbath day?"
-
 > But they could not give an answer to these things.
 
 
