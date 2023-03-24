@@ -9,7 +9,7 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-excerpt_length: 9        # truncate excerpts on feed page to this number of words
+excerpt_length: 25         # truncate excerpts on feed page to this number of words
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
