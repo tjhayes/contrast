@@ -9,9 +9,9 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: false       # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
+show_frame: false          # 'true' adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true              # false = dark layout,  true = dark/light layout
+minimal: false             # true = dark layout,  false = dark/light layout (I think)
 
 # Menu
 
