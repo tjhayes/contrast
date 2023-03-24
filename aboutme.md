@@ -8,4 +8,4 @@ I made this blog as a way to share what I am learning from the Lord as I study a
 
 ---
 
-![tj](_tj-hayes.jpg)
+![tj](assets/images/tj-hayes.jpg)
